@@ -43,7 +43,9 @@ Versao X.Y.Z: <resumo curto separado por vírgulas>
 
 Mostre a mensagem e o diff ao usuário e **espere confirmação** antes de `git commit`.
 
-## 5. Tag (só depois do commit, e só se o usuário pedir)
+## 5. Tag (NÃO usar neste fork)
+
+Este repositório é um fork de estudo e não lança releases: o `MARCA.md` exige outro nome e outro logo para versões derivadas. Pare no passo 4. Só siga daqui se o usuário disser explicitamente que o fork passou a lançar versões.
 
 O GitHub Actions monta e publica o instalador quando a tag `v*` sobe:
 
